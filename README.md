@@ -6,8 +6,8 @@
 This repository contains the MonetizeGame.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the MonetizeGame.com network. https://MonetizeGame.com
 
 # STEP 1:
-<p><a href="https://drive.google.com/file/d/1MGHAdbfih_l7J0UbAzm_zt2rEW8yq3M-/">Download the plugin</a> and Import the .unitypackage into your game. </p>
-<p>Download here: <a href="https://drive.google.com/file/d/1MGHAdbfih_l7J0UbAzm_zt2rEW8yq3M-/">https://drive.google.com/file/d/14i-5GiS18akqbeEzFTcnOuA4H0WAkHmf/</a></p>
+<p><a href="https://drive.google.com/file/d/1LyFyUgbY46aesWwcN9BoZRJrP-m6-lZX/">Download the plugin</a> and Import the .unitypackage into your game. </p>
+<p>Download here: <a href="https://drive.google.com/file/d/1MGHAdbfih_l7J0UbAzm_zt2rEW8yq3M-/">https://drive.google.com/file/d/1LyFyUgbY46aesWwcN9BoZRJrP-m6-lZX/</a></p>
 
 <p><img src="https://monetizegame.com/images/unity/unity_2.png"  width="800" alt=""></p>
 
