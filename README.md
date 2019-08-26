@@ -7,7 +7,7 @@ This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This 
 
 # STEP 1:
 <p><a href="https://drive.google.com/file/d/1BrJ0MuNBWh7_hoNRIEXw9exgqpE1uQZh/">Download the plugin</a> and Import the .unitypackage into your game. </p>
-<p>Download here: <a href="https://drive.google.com/file/d/1BrJ0MuNBWh7_hoNRIEXw9exgqpE1uQZh/">https://drive.google.com/file/d/1BrJ0MuNBWh7_hoNRIEXw9exgqpE1uQZh/</a></p>
+<p>Download here: <a href="https://drive.google.com/file/d/1lRYpxHe8mRtJ1nIsBFsWPEcv_W3zFBfQ/">https://drive.google.com/file/d/1lRYpxHe8mRtJ1nIsBFsWPEcv_W3zFBfQ/</a></p>
 
 <p><img src="https://gamemonetize.com/images/unity3d/unity1.png"  width="800" alt=""></p>
 
