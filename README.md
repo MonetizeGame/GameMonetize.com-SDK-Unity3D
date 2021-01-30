@@ -63,6 +63,13 @@ Make use of the events GameMonetize.OnResumeGame and GameMonetize.OnPauseGame fo
 <h2><b>Implementation self-hosted games.</b></h2>
 <p>In the case where a developer wants to self-host their game, please contact us on at: info@gamemonetize.com</p>
 
+# Protect your WebGL games from theft (recommended)
+<h2>How to protect my games?</h2>
+<p><b>Answer</b>:Together with our great developers, we have developed a script that will help you protect your games from theft of your Unity WebGL games.</b></h2>
+<p>Please download a file SiteLock.cs and attach this file to your Unity game, for any help or questions please contact us on at: info@gamemonetize.com</p>
+<p><b>CREDITS:</b><a href="https://gamemonetize.com/games?company=BestCrazyGames#games">BestCrazyGames M3ntoL (https://bestcrazygames.com)</p> ;)</p>
+
+
 # Support:
 If you have any technical questions or comments, please email us at:
 info@gamemonetize.com
