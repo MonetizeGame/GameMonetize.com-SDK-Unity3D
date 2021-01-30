@@ -2,7 +2,7 @@
 <img src="https://gamemonetize.com/images/unity3d-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/unity3d-logo.png">
 
 </br>📌 LAST UPDATE: </br>
-- Added Code Protection  ➡️ <a href="https://drive.google.com/file/d/1CQBAnwdfaWwMg81qL-YLIZavvhYRfid0/view">Download Here SiteLock.cs</a></br>
+- Added Code Protection  ➡️ <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Download Here SiteLock.cs</a></br>
 
 # GameMonetize.com-SDK WebGL Unity3D
 This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
@@ -69,7 +69,7 @@ Make use of the events GameMonetize.OnResumeGame and GameMonetize.OnPauseGame fo
 # Protect your WebGL games from theft (recommended)
 <h2>How to protect my games?</h2>
 <p><b>Answer:</b> Together with our awesome developers, we have developed a script that will help you protect your games from theft of your Unity WebGL games.</b></h2>
-<p><a href="https://gamemonetize.com/games?company=BestCrazyGames#games">Please DOWNLOAD HERE a file SiteLock.cs</a> and attach this file to your Unity game, for any help or questions please contact us on at: info@gamemonetize.com</p>
+<p><a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Please DOWNLOAD HERE a file SiteLock.cs</a> and attach this file to your Unity game, for any help or questions please contact us on at: info@gamemonetize.com</p>
 <p><b>CREDITS TO:</b> <a href="https://gamemonetize.com/games?company=BestCrazyGames#games">BestCrazyGames M3ntoL (https://bestcrazygames.com)</a></p>
 
 
