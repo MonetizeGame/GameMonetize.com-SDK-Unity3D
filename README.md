@@ -1,7 +1,7 @@
 <img src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4">  &nbsp;&nbsp;
 <img src="https://gamemonetize.com/images/unity3d-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/unity3d-logo.png">
 
-</br>📌 DOWNLOAD our WebGL Teample: </br>
+</br>📌 DOWNLOAD our WebGL Template: </br>
 <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">➡️ Download Here WebGL Template</a></br>
 
 </br>📌 DOWNLOAD CODE protection against game stealing: </br>
