@@ -2,10 +2,10 @@
 <img src="https://gamemonetize.com/images/unity3d-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/unity3d-logo.png">
 
 </br>📌 DOWNLOAD our WebGL Teample: </br>
-- <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Download Here WebGL Template</a></br>
+<a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">➡️ Download Here WebGL Template</a></br>
 
-</br>📌 LAST UPDATE: </br>
-- Added Code Protection  ➡️ <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Download Here SiteLock.cs</a></br>
+</br>📌 DOWNLOAD CODE protection against game stealing: </br>
+➡️ <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Download Here SiteLock.cs</a></br>
 
 # GameMonetize.com-SDK WebGL Unity3D
 This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
