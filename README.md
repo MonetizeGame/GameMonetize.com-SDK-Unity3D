@@ -7,7 +7,7 @@
 </br>📌 DOWNLOAD CODE protection against game stealing: </br>
 ➡️ <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Download Here SiteLock.cs</a></br>
 
-# GameMonetize.com-SDK WebGL Unity3D
+# GameMonetize.com-SDK WebGL Unity
 This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
 
 # STEP 1:
