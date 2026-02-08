@@ -32,6 +32,11 @@ Use GameMonetize.Instance.ShowAd() to show an advertisement.
 # STEP 6:
 Make use of the events GameMonetize.OnResumeGame and GameMonetize.OnPauseGame for resuming/pausing your game in between ads.
 
+# SETUP Button (More Games):
+<p><img src="https://gamemonetize.com/images/unity3d/new1.png"  width="800" alt=""></p>
+<p><img src="https://gamemonetize.com/images/unity3d/new2.png"  width="800" alt=""></p>
+<p><img src="https://gamemonetize.com/images/unity3d/new3.png"  width="800" alt=""></p>
+
 # Example:
 <pre>public class ExampleClass: MonoBehaviour {
 	void Awake()
