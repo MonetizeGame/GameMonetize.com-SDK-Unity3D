@@ -1,9 +1,6 @@
 <img src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4" width="100" alt="" data-canonical-src="https://avatars1.githubusercontent.com/u/54474115?s=460&v=4">  &nbsp;&nbsp;
 <img src="https://gamemonetize.com/images/unity3d-logo.png" width="100" alt="" data-canonical-src="https://gamemonetize.com/images/unity3d-logo.png">
 
-</br>📌 DOWNLOAD our WebGL Template: </br>
-<a href="https://drive.google.com/file/d/1RWLygOH1yX1_sVC7pc2cP-V-HKMszRAE/view">➡️ Download Here WebGL Template</a></br>
-
 </br>📌 DOWNLOAD CODE protection against game stealing: </br>
 ➡️ <a href="https://drive.google.com/file/d/1kG-pJlUNAvGdBVVD_fYj71d0Nh-VB6zI/view">Download Here SiteLock.cs</a></br>
 
@@ -11,8 +8,7 @@
 This repository contains the GameMonetize.com SDK for WebGL Unity3D games. This allows you to display advertisements in the games published within the GameMonetize.com network. https://GameMonetize.com
 
 # STEP 1:
-<p><a href="https://drive.google.com/file/d/1sFXHpEL3V0IG_ZUeauR9eAZxIzj8dBkn/">Download the plugin</a> and Import the .unitypackage into your game. </p>
-<p>Download here: <a href="https://drive.google.com/file/d/1sFXHpEL3V0IG_ZUeauR9eAZxIzj8dBkn/">https://drive.google.com/file/d/1sFXHpEL3V0IG_ZUeauR9eAZxIzj8dBkn/</a></p>
+<p>Download here: <a href="https://drive.google.com/file/d/1bUobjZohH6CusVFwnHmNbYeZJiIjLMai/">https://drive.google.com/file/d/1bUobjZohH6CusVFwnHmNbYeZJiIjLMai/</a></p>
 
 <p><img src="https://gamemonetize.com/images/unity3d/unity1.png"  width="800" alt=""></p>
 
